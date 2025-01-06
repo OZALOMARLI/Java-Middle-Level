@@ -22,7 +22,7 @@ public class cars {
                 System.out.println(" Revuelto, Avendator, Huracan, Urus, Sesto Elemento");
                 break;
             default:
-                System.out.println( " Undefinde Choosen " );
+                System.out.println( " Undefined Choosen " );
         }
 
     }
