@@ -4,7 +4,7 @@ public class cars {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
-        System.out.println ( " Welcome to the cars program ");
+        System.out.println ( " Welcome to the cars program. Select the fmaily of car and show models :) ");
         System.out.println (" 1. BMW \n 2.Rolls Royce \n 3.Audi \n 4.Lamborghini");
         int choosen = input.nextInt();
 
